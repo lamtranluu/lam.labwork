@@ -1,8 +1,9 @@
 # <p align='center'> LAB | Imbalanced data. 📃
 Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-* This file provides information about Imbalanced data case in Logistic Regression under my perspective. 
-![alt text](https://github.com/lamtranluu/lam.labwork/blob/main/Week%204/Lab%7C%20A%20Beautiful%20Readme/Image/1_M41YBdd7O9DCgwwTVe73-g.png)
-***
+* This file provides information about Imbalanced data case in Logistic Regression under my understandings. 
+ Please feel free to reach me out if there is any missunderstanding in my findings. 
+<img align="right" width="400px" src= "https://github.com/lamtranluu/lam.labwork/blob/main/Week%204/Lab%7C%20A%20Beautiful%20Readme/Image/1_M41YBdd7O9DCgwwTVe73-g.png" >
+ 
 * [Contribution guidelines for this project](https://github.com/ironhack-labs/lab-imbalanced-data)
 * The data source [download here!](https://github.com/lamtranluu/lam.labwork/blob/main/Week%204/Lab%7C%20A%20Beautiful%20Readme/Data/customer_churn.csv)
 
