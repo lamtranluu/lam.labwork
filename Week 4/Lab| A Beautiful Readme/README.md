@@ -34,6 +34,7 @@ Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
  7. Attempt 3: Implement Tomelink (Under Sampling Method)
 ## 📊 Results
 - The first attempt in logistic regression model is 0,79 (quite good in general), however from the chart of confusion metric, 
+ <img src="https://github.com/lamtranluu/lam.labwork/blob/main/Week%204/Lab%7C%20A%20Beautiful%20Readme/Image/Matrix.png" width="500px">
  
 we can see more detail about the total value of each class (Churn rate: Yes/No) which indicated the majority in Yes value (90% )are more than No value (10%). 
 - Therefore, we could say the result was not correct caused by Imbalanced data issue.
