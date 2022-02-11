@@ -48,8 +48,12 @@ we can see more detail about the total value of each class (Churn rate: Yes/No) 
 ## 🎯 Conclusion
 - By indentified the Imbalanced data issue from the beggining, we can apply under Sampling or Over Sampling to modify the result of model, avoid applying 
  wrong prediction in the future.
-- 
-- 
+- Comparison table of 2 methods:
+| Smote         | Tomelink      |
+| ------------- |:-------------:|
+
+
+
 **Thank you for reading!** <br/>
  Barcelona, February 2022
 
