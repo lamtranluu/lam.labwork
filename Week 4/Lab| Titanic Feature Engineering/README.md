@@ -12,7 +12,7 @@ Quick finding from the data set (train.csv):
 
 ## Task 2: Learn from Others
 
-[Notebook](https://www.kaggle.com/startupsci/titanic-data-science-solutions):
+[Titanic Data Science Solutions](https://www.kaggle.com/startupsci/titanic-data-science-solutions):
 * **1.Feature engineering or feature wrangling methods which you have seen?** 
  + Drop columns Tickets & Cabin, Name after creating new feature, Passenger ID
  + Drop Parch, Sib, Familysize after creating the new feature
@@ -33,3 +33,27 @@ Quick finding from the data set (train.csv):
 - **6.any evidence of overfit or sampling bias ?**
 - Author used 6 difference model to test, all predicted high result (above 75%)
 ***
+[Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+
+* **1.Feature engineering or feature wrangling methods which you have seen?** 
+- Remove all NULLS in the Embarked column
+- Remove all NULLS in the Fare column and create a new feature CategoricalFare
+- Define function to extract titles from passenger names
+- Drop elements PassengerId', 'Name', 'Ticket', 'Cabin', 'SibSp'
+- Visualisation: Heatmap, scatter plot, 
+* **2.Feature Extraction:**
+- Feature that tells whether a passenger had a cabin on the Titanic
+- Create new feature FamilySize as a combination of SibSp and Parch
+- Create new feature IsAlone from FamilySize
+- Create a New feature CategoricalAge
+- Create a new feature Title, containing the titles of passenger names
+* **3.Handle missing values?** 
+
+* **4.What about scaling methods for numerical variables?**
+- Maping value with numbers
+* **5.What about encoding categorical variables?**
+- Maping value with numbers
+* **6.any evidence of overfit or sampling bias ?**
+
+***
+[A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
