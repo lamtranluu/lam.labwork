@@ -49,10 +49,17 @@ we can see more detail about the total value of each class (Churn rate: Yes/No) 
 - By indentified the Imbalanced data issue from the beggining, we can apply under Sampling or Over Sampling to modify the result of model, avoid applying 
  wrong prediction in the future.
 - Comparison table of 2 methods:
-| Smote         | Tomelink      |
-| ------------- |:-------------:|
-
-
+ 
+|               | Smote                                                      | Tomelink                                                                    |
+| ------------- |:-----------------------------------------------------------|-----------------------------------------------------------------------------|
+|Advantages     | No lost of data as UnderSampleling                         |   Create a quick balanced data for training                                 | 
+|               |                                                            |                                                                             |
+|Disadvantages  |SMOTE does not take into consideration neighboring examples |The size of training model is reduced very small which an cause overlifting  |
+|               |can be from other classes. This can increase the overlapping|issuse because it will not present result for whole data set.                |
+|               |  of classes and can introduce additional noise.            |                                                                             |      
+                                                                  
+                                   
+                                                       
 
 **Thank you for reading!** <br/>
  Barcelona, February 2022
