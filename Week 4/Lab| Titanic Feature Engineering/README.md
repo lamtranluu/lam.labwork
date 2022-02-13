@@ -57,3 +57,51 @@ Quick finding from the data set (train.csv):
 
 ***
 [A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
+
+* **1.Feature engineering or feature wrangling methods which you have seen?** 
+- Complete missing age with median, complete embarked with mode, complete missing fare with median
+- Delete the cabin feature/column and others previously stated to exclude in train dataset
+- Visualize by Histograms, point plots, pair plots, heatmaps
+* **2.Feature Extraction:**
+- CREATE: Feature Engineering for train and test/validation dataset
+* **4.What about scaling methods for numerical variables?**
+* **5.What about encoding categorical variables?**
+- Convert objects to category using Label Encoder for train and test/validation dataset
+- * **6.any evidence of overfit or sampling bias ?** No
+
+***
+[Exploring Survival on the Titanic](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic)
+* **1.Feature engineering or feature wrangling methods which you have seen?** 
+- Clean, split title column
+- Create ggplot chart between Embarked and Fare to repalce the missing values in Embarked, Fare
+- Visualize: Use ggplot2
+* **2.Feature Extraction:**
+* Create a family variable 
+* Create a family size variable including the passenger themselves
+* Create a couple of new age-dependent variables: Child and Mother
+* **4.What about scaling methods for numerical variables?**
+* **5.What about encoding categorical variables?**
+
+***
+[Titanic Top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
+* **1.Feature engineering or feature wrangling methods which you have seen?** 
+- Fill empty and NaNs values with NaN
+- Fill Fare missing values with the median value
+- Apply log to Fare to reduce skewness distribution
+- Fill Embarked nan values of dataset set with 'S' most frequent value
+- Fill Age with the median age of similar rows according to Pclass, Parch and SibSp
+- Visualize with heatmap to identify correlation, sns.factorplot to check value distribution 
+- Check age distribution with sns.kdeplot
+* **2.Feature Extraction:**
+* Create Title from Name
+* Create a family size descriptor from SibSp and Parch
+* **4.What about scaling methods for numerical variables?** No
+* **5.What about encoding categorical variables?**
+- Using dummies for cabin, pclass, ticket
+
+
+
+
+
+
+
