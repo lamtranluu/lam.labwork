@@ -1,14 +1,14 @@
 # Titanic Feature Engineering:
 ## Task 1:
-Quick finding from the data set (train.csv):
+Quick findings from the data set (train.csv):
 * **People who had the ticket class 1: had more chance to survive than other ticket class.**
 * **Female passenger survived more than male passenger.**
 <img align="right" src="https://github.com/lamtranluu/lam.labwork/blob/main/Week%204/Lab%7C%20Titanic%20Feature%20Engineering/Images/Screenshot%202022-02-13%20at%2016.01.21.png" width="200px">
 
-* **There was a similar findings between passenger with Sibsp and Parch, passenger went on board without family or sibling, survided more than passengers traveled with family or siblings.**
+* **There was a similar result between passenger with Sibsp and Parch, once passenger went on board alone, survided more than passengers traveled with family or siblings.**
 <img width="400px" src= "https://github.com/lamtranluu/lam.labwork/blob/main/Week%204/Lab%7C%20Titanic%20Feature%20Engineering/Images/Screenshot%202022-02-13%20at%2016.43.23.png" >
 
-*  **People had les chance to alive when they was above 44 years old Oldest alive passenger was 80 years old.**
+*  **People had les chance to alive when they was above 44 years old. Oldest survived passenger was 80 years old.**
 
 ## Task 2: Learn from Others
 
