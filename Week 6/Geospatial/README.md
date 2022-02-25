@@ -1,6 +1,7 @@
 ## Geospatial 
 [File Tableau](https://public.tableau.com/app/profile/lamluu/viz/Recyclingrate/recyclingrates?publish=yes)
-<img src="https://github.com/lamtranluu/lam.labwork/blob/main/Week%206/Geospatial/Screenshot%202022-02-25%20at%2017.41.42.png" width="25px">:
+
+<img src="https://github.com/lamtranluu/lam.labwork/blob/main/Week%206/Geospatial/Screenshot%202022-02-25%20at%2017.41.42.png" width="500px">:
 
 
 - Coclusion: Almost boroughs have grown the recycling rate around 2-6% per year.
