@@ -7,7 +7,8 @@
 - Continue to recommend other song by using clustering model ( check type cluster of the song from user input, and give reconmendation from song in Spotify based on that cluster)
 
 #### Example of Music Recommender Output:
-
+- Case 1:
+<img src="https://github.com/lamtranluu/lam.labwork/blob/main/Week%207/Music%20Recommender/Photo/S1%20spelling%20error.png" width="300px">
 
 
 
