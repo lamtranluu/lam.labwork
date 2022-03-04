@@ -6,7 +6,8 @@
 - If user is no satisfied, recommend user a song from Spotify playlist (Spotify API), based on the similar cluster group.
 - Continue to recommend other song by using clustering model ( check type cluster of the song from user input, and give reconmendation from song in Spotify based on that cluster)
 
-### Example of Music Recommender Output:
+#### Example of Music Recommender Output:
+
 
 
 
