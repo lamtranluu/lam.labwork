@@ -1,13 +1,15 @@
 # Music Recommender _ MVP2
-### Music Recommender Project is built on this [prototype](https://github.com/student-IH-labs-and-stuff/BCNDATA0122/blob/main/ClassMaterials/Week7/gnod_2nd_prototype.jpg)
 
-## How "Music Recommender works:
-- Check song from in user input, if it is in top 100 Billboard or not?
-- If user is no satisfied, recommend user a song from Spotify playlist (Spotify API), based on the similar cluster group.
+### 1.Music Recommender Project is built on this [prototype](https://github.com/student-IH-labs-and-stuff/BCNDATA0122/blob/main/ClassMaterials/Week7/gnod_2nd_prototype.jpg)
+
+
+### 2.How "Music Recommender works:
+- Revise if song'input from top 100 Billboard.
+- Recommend user a song from Spotify playlist (Spotify API), based on the similar cluster group.
 - Continue to recommend other song by using clustering model ( check type cluster of the song from user input, and give reconmendation from song in Spotify based on that cluster)
 
-#### Example of Music Recommender Output:
-- Case 1:
+### 3.Example of Music Recommender Output:
+
 <img src="https://github.com/lamtranluu/lam.labwork/blob/main/Week%207/Music%20Recommender/Photo/S1%20spelling%20error.png" width="800px">
 
 
