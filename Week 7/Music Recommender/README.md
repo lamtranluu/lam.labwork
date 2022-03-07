@@ -1,5 +1,5 @@
 # Music Recommender _ MVP2
-### Music Recommender Project is built on this [prototype]
+### Music Recommender Project is built on this [prototype](https://github.com/student-IH-labs-and-stuff/BCNDATA0122/blob/main/ClassMaterials/Week7/gnod_2nd_prototype.jpg)
 
 - How "Music Recommender works:
 - Check song from in user input, if it is in top 100 Billboard or not?
