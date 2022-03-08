@@ -8,7 +8,7 @@
 ### 2.Project Methodology:
 - Web scraping top 100 Billboard
 - Revise user 's song if it is/is not from top 100 Billboard.
-- Web scraping Spotify by API too obatin playlist  's library
+- Web scraping Spotify by API too obtain playlist  's library
 - Recommend user a song from Spotify playlist, based on the similar cluster group.(Kmeans)
 
 ### 3.Tools & Skill Required:
