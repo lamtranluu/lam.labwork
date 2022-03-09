@@ -27,6 +27,7 @@
 <img src ='https://github.com/lamtranluu/lam.labwork/blob/main/Week%207/Music%20Recommender/Photo/Screenshot%202022-03-04%20at%2015.47.59.png' width='800'>
 
 ### 5.Recommendations to improve the model:
-- Add feature as artist, genre.. to obtain better recommendation
+- Add feature as artist, genre.. to obtain better recommendation.
+- Test model with new feature selections/extraction to gain better cluster groups
 
 
