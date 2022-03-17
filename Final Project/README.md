@@ -37,11 +37,36 @@ In recent years, we have seen many new movies with popular genres: fantasy, supe
 <img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-17%20at%2021.29.01.png " width="700px">
  
 ## 📌 Outcomes:
-1. Marvel gained more positive reviews around 6% , compared to DC based on IMDB reviews
+[Visualization](https://public.tableau.com/app/profile/lamluu/viz/MarvelDC_16475584767410/Plot?publish=yes)
+[Presentation](https://docs.google.com/presentation/d/1YhR9P3Um8dC1JiCj-YhAKnE8qQ2iYOBxy8SBqLaViWo/edit#slide=id.p)
+1.There is a correlation between higher rating and high revenue
+<img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Plot.png" width="600px">
+
+2. Marvel gained more positive reviews around 6% , compared to DC based on IMDB reviews
 <img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-17%20at%2022.47.12.png" width="600px">
+
+3. 8/12 of the movies with the positive sentiment from Marvel
+<img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-18%20at%2000.12.54.png
+" width="500px">
+
+4. By using BOW features, we extracted the most common key words, which are mentioned in positive reviews from Marvel & DC
+- We can see that Marvel audiences mentioned about name of favorite characters, showed their engagement with these adjectives (great, good, one of the best), also **1 interesting points** they tend to mention more about the fact : franchise sequence in Marvel, which is one of most points stimulate Marvel 's revenue  
+<img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/MV_wordcloud.png" width="500px">
+In term of audience emotions ( using NRC Lexical to get the indicator), Marvel gained around 20% trust from audiencens
+<img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-18%20at%2000.10.32.png" width="500px">
+
+5. When look at positive word cloud of DC: user also mentioned about character but mainly around Batman, DC fan seems pay attention more about the actors who stared at the role in movies since most keywords appeared with real name of actors, these engageing keywords also be mentioned (great, good...)
+<img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/DC_wordcloud.png" width="500px">
+
+6.Lastly, in order to understand which topic are releated to user review, i designed some list of words, use BOW feature to find downd the number of words in each reviews.
+- For example, from word cloud Marvel 
+
+
+
+
 
 
 
  
-## ‼️ Key Take Aways
+## ‼️ Conclusions
  
