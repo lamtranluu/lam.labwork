@@ -3,7 +3,7 @@
 
 ## 📖 Table of Contents:
 * [Context](https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/README.md#context)
-* [Objectives]()
+* [Objectives](https://github.com/lamtranluu/lam.labwork/tree/main/Final%20Project/README.md#-objectives)
 * [Tools Requirements]()
 * [Insight]() 
 * [Key take aways]() 
