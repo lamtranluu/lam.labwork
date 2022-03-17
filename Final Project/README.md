@@ -36,9 +36,8 @@ In recent years, we have seen many new movies with popular genres: fantasy, supe
 <img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-17%20at%2021.29.01.png " width="700px">
  
 ## 📌 Outcomes:
-
-
-<img align="center" src=" " width="700px">
+1. Marvel gained more positive reviews around 6% , compared to DC based on IMDB reviews
+<img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-17%20at%2022.47.12.png" width="600px">
 
 
 
