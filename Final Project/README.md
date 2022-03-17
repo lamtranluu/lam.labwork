@@ -9,13 +9,12 @@
 * [Key take aways]() 
 
 ## Context 
-- In recent years, we have seen many new movies with popular genre: fantasy, superhero.., and there are 2 companies are dominitaing the ranking chart which are DC & Marvel.
-- Both company produce film based on comic book, with different superhero characters , however surpisingly, Marvel gained remarkable gross revenue (over 70%) compared to DC, with only 20% more against DC in term of budget.
-- In order to contribute the sucess of a movie, there are many factors such as: producers, distributors, marketing, rating reviews..., thus in the scope of this analysis, I choose rating review as an objective for my analysis to explore:
--  How is rating reviews between Marvel & DC ?
--  Is there any correlation between rating and revenue ?  
--  Understand better the feeling and engagemnet of audiences between both company.
--  The analysis is based on rating reviews from IMDB.
+In recent years, we have seen many new movies with popular genres: fantasy, superhero.., and there are 2 companies dominating the ranking chart which are DC & Marvel. Both companies produce films based on comic book, with different superhero characters, however surprisingly, Marvel gained remarkable gross revenue (over 70%) compared to DC, with only 20% more than DC in terms of budget. 
+- In order to contribute to the success of a movie, there are many factors such as producers, distributors, marketing, rating reviews..., 
+- thus in the scope of this analysis, I choose rating review as an objective for my analysis to explore: 
+- How are the rating reviews between Marvel & DC? 
+- Is there any correlation between rating and revenue? 
+- Understand better the feeling and engagement of audiences between both companies. The analysis is based on rating reviews from IMDB.
 
 ## 🎯 Objectives 
 **1. Understand better the feeling and engagement of audiences between both company.
