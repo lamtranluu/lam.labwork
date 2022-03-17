@@ -31,8 +31,8 @@ In recent years, we have seen many new movies with popular genres: fantasy, supe
  
 ## ⚙️ Method :
 1. Web Scraping 20 movies from IMDB website
-2. Classify negative, positive sentiments with supervisedlearning ( Logistic Regression)
-3. Using Bag of Words to extract key words, which are relevant with certain topics 
+2. Classify negative, positive sentiments with supervised learning ( Logistic Regression)
+3. Using Bag of Words to extract key words, which are relevant to certain topics
 <img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-17%20at%2021.29.01.png " width="700px">
  
 ## 📌 Outcomes:
