@@ -4,7 +4,7 @@
 ## 📖 Table of Contents:
 * [Context](https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/README.md#context)
 * [Objectives](https://github.com/lamtranluu/lam.labwork/tree/main/Final%20Project/README.md#-objectives)
-* [Tools Requirements]()
+* [Tools Requirements](https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/README.md#%EF%B8%8F-tools)
 * [Insight]() 
 * [Key take aways]() 
 
