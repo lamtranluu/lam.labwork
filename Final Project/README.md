@@ -17,9 +17,9 @@ In recent years, we have seen many new movies with popular genres: fantasy, supe
 - Understand better the feeling and engagement of audiences between both companies. The analysis is based on rating reviews from IMDB.
 
 ## 🎯 Objectives 
-**1. Understand better the feeling and engagement of audiences between both company.
+**1. Understand better the feeling and engagement of audiences between both company.**
 
-**2. Explore the rating reviews between DC & Marvel and is there any coorrelation between 2 variables ( rating & revenue)
+**2. Explore the rating reviews between DC & Marvel and is there any coorrelation between 2 variables ( rating & revenue)**
 
 ## ⚙️ Tools:
  ![](https://img.shields.io/badge/Tableau-Visualization-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
