@@ -3,9 +3,10 @@
 
 ## 📖 Table of Contents:
 * [Context](https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/README.md#context)
-* [Objectives]()
-* [Tools Requirements]()
-* [Insight]() 
+* [Objectives](https://github.com/lamtranluu/lam.labwork/tree/main/Final%20Project/README.md#-objectives)
+* [Tools Requirements](https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/README.md#%EF%B8%8F-tools)
+* [Method](https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/README.md#%EF%B8%8F-method-)
+* [Outcomes](https://github.com/lamtranluu/lam.labwork/tree/main/Final%20Project#-outcomes) 
 * [Key take aways]() 
 
 ## Context 
