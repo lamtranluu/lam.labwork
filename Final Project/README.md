@@ -7,7 +7,7 @@
 * [Tools Requirements](https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/README.md#%EF%B8%8F-tools)
 * [Method](https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/README.md#%EF%B8%8F-method-)
 * [Outcomes](https://github.com/lamtranluu/lam.labwork/tree/main/Final%20Project#-outcomes) 
-* [Key take aways]() 
+* [Conclusions](https://github.com/lamtranluu/lam.labwork/tree/main/Final%20Project#%EF%B8%8F-conclusions) 
 
 ## Context 
 In recent years, we have seen many new movies with popular genres: fantasy, superhero.., and there are 2 companies dominating the ranking chart which are DC & Marvel. Both companies produce films based on comic book, with different superhero characters, however surprisingly, Marvel gained remarkable gross revenue (over 70%) compared to DC, with only 20% more than DC in terms of budget. 
@@ -59,14 +59,23 @@ In term of audience emotions ( using NRC Lexical to get the indicator), Marvel g
 <img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/DC_wordcloud.png" width="500px">
 
 6.Lastly, in order to understand which topic are releated to user review, i designed some list of words, use BOW feature to find downd the number of words in each reviews.
-- For example, from word cloud Marvel 
+- For example, from word cloud Marvel, we obtained the point that audience love the action sequence from Marvel series, there for i create a list which indicated about the curiosity , such as: 'post credit','easter egg','curious','eager','wait' to know in which topic Marvel recieved more psotive feedbacks.
+<img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-18%20at%2000.10.47.png" width="500px">
 
+- Curiosity topic associated 4.5x more with positive than negative reviews for Marvel movies and double than DC movies
 
-
-
-
-
-
+- By contrast, as DC's user wrote more reviews about name of actors, the chart showed: in positive reviews Acting topic associated 4x more with positive than negative reviews for DC movies. The appealing acting of actors is a reason which leaded DC 's revenue
+<img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-18%20at%2000.10.54.png
+" width="500px">
  
-## ‼️ Conclusions
+## ‼️ Conclusions:
+- Sentiment analysis shows a higher customer satisfaction with Marvel´s top grossing movies than those of DC
+- The high positive sentiment of the first Avengers movie might have led to the success of the Avengers movie sequence 
+- Similar DC attempts such as Batman v Superman and Justice League have very low positive sentiment
+
+- Marvel is successful in maintaining audience ‘s engagement and attention to movies sequence
+
+- Marvel has used the element of curiosity (post-credit scenes, easter-eggs) to drive positive sentiment
+- This helps in keeping the discussion alive and bringing customers back to the cinema
+
  
