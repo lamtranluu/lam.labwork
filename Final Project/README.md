@@ -66,7 +66,7 @@ In term of audience emotions ( using NRC Lexical to get the indicator), Marvel g
 
 - By contrast, as DC's user wrote more reviews about name of actors, the chart showed: in positive reviews Acting topic associated 4x more with positive than negative reviews for DC movies. The appealing acting of actors is a reason which leaded DC 's revenue
 <img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-18%20at%2000.10.54.png
-" width="500px">
+" width="700px">
  
 ## ‼️ Conclusions:
 - Sentiment analysis shows a higher customer satisfaction with Marvel´s top grossing movies than those of DC
