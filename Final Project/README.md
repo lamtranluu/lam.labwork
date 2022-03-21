@@ -37,8 +37,9 @@ In recent years, we have seen many new movies with popular genres: fantasy, supe
 <img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Screenshot%202022-03-17%20at%2021.29.01.png " width="700px">
  
 ## 📌 Outcomes:
-[Visualization](https://public.tableau.com/app/profile/lamluu/viz/MarvelDC_16475584767410/Plot?publish=yes)
-[Presentation](https://docs.google.com/presentation/d/1YhR9P3Um8dC1JiCj-YhAKnE8qQ2iYOBxy8SBqLaViWo/edit#slide=id.p)
+- [Tableau Visualization](https://public.tableau.com/app/profile/lamluu/viz/MarvelDC_16475584767410/Plot?publish=yes)
+
+- Presentation [Click here!](https://docs.google.com/presentation/d/1YhR9P3Um8dC1JiCj-YhAKnE8qQ2iYOBxy8SBqLaViWo/edit#slide=id.p)
 
 1.There is a correlation between higher rating and high revenue
 <img align="center" src="https://github.com/lamtranluu/lam.labwork/blob/main/Final%20Project/Image/Plot.png" width="600px">
